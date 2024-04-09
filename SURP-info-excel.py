@@ -17,6 +17,3 @@ print(len(ws['H']))
 print(len(ws['I']))
 #Create dictionary to contain all information for Cages- Such as
 # - How many days of the experiment did it survive? What days? Average?
-def findIndex(index_count):
-
-    for
