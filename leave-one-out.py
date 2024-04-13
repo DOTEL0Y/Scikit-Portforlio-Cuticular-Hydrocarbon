@@ -1,3 +1,6 @@
+#Written by Oscary Antonio Dotel
+#Purpose - Utilize Leave-One-Out model with ADABOOST & GradientBoostClassifier to view accuracy Prediction of ML on Cuticular HydroCarbon
+#Dataset size - Small
 import pandas as pd
 import numpy as np
 import matplotlib as plt
