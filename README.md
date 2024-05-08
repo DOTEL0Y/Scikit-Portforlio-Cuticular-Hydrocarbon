@@ -1,5 +1,5 @@
-![Scikit](markdown/Scikitlogo.png)
-# Scikit Portforlio 
+![Scikit](markdown/HoneyBee.png)
+# Scikit Portfolio 
 ### Installation Guide 
 Python Dependencies include **pandas, Scikit, Matplotlib,** and lastly **Seaborn**.
 Last two libraries were strictly for data visualization purposes and are not mandatory for execution.
